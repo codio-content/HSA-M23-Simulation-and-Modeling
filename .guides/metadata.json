@@ -1,0 +1,96 @@
+{
+ "sections": [
+  {
+   "id": "87e80181-261a-c5bf-d401-c370f28f7136",
+   "title": "Simulation & Modeling",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simulation---Modeling-87e8.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "db27f243-593d-42f9-2cc7-749743ed80d8",
+   "title": "Simulation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simulation-db27.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4b193d53-633c-9931-de79-3653a84887e3",
+   "title": "Creating a Model",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Simulation/PredatorPrey.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-a-Model-4b19.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3107c00a-1cc5-a58e-7ecd-d3cbcef8dad9",
+   "title": "Refining our Model",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Simulation/PredatorPrey2.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Refining-our-Model-3107.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "983037ee-46d8-9aa1-285d-8e78694b10d1",
+   "title": "Modeling & Simulation Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Modeling---Simulation-Quiz-9830.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
