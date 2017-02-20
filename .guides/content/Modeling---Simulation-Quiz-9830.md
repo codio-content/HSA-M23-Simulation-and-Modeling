@@ -1,7 +1,7 @@
 {Check It!|assessment}(fill-in-the-blanks-1510965826)
 |||guidance
 # Solution
-** model**
+**model**
 |||
 {Check It!|assessment}(multiple-choice-4268322932)
 |||guidance
